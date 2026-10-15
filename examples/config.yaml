@@ -1,0 +1,4 @@
+data_dir: ../data/demo
+timezone: Asia/Shanghai
+currency: CNY
+default_budget: '600.00'

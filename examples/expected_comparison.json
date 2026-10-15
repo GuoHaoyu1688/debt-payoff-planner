@@ -1,0 +1,66 @@
+{
+  "baseline": {
+    "complete": true,
+    "payoff_month": "2036-07",
+    "months": 118,
+    "total_interest_cents": 417036,
+    "total_paid_cents": 1397036,
+    "interest_saved_cents": 0,
+    "debt_payoff_dates": {
+      "PERSONAL-E": "2029-03-15",
+      "FEE-D": "2027-09-15",
+      "LOAN-C": "2027-07-15",
+      "LOAN-B": "2027-09-15",
+      "CARD-A": "2036-07-15"
+    },
+    "failure": null
+  },
+  "snowball": {
+    "complete": true,
+    "payoff_month": "2028-03",
+    "months": 18,
+    "total_interest_cents": 125145,
+    "total_paid_cents": 1105145,
+    "interest_saved_cents": 291891,
+    "debt_payoff_dates": {
+      "PERSONAL-E": "2027-01-15",
+      "FEE-D": "2027-07-15",
+      "LOAN-C": "2027-05-15",
+      "LOAN-B": "2027-08-15",
+      "CARD-A": "2028-03-15"
+    },
+    "failure": null
+  },
+  "avalanche": {
+    "complete": true,
+    "payoff_month": "2028-03",
+    "months": 18,
+    "total_interest_cents": 112882,
+    "total_paid_cents": 1092882,
+    "interest_saved_cents": 304154,
+    "debt_payoff_dates": {
+      "PERSONAL-E": "2028-03-15",
+      "FEE-D": "2027-09-15",
+      "LOAN-C": "2027-07-15",
+      "LOAN-B": "2027-09-15",
+      "CARD-A": "2028-03-15"
+    },
+    "failure": null
+  },
+  "custom": {
+    "complete": true,
+    "payoff_month": "2028-03",
+    "months": 18,
+    "total_interest_cents": 126002,
+    "total_paid_cents": 1106002,
+    "interest_saved_cents": 291034,
+    "debt_payoff_dates": {
+      "PERSONAL-E": "2027-01-15",
+      "FEE-D": "2027-06-15",
+      "LOAN-C": "2027-07-15",
+      "LOAN-B": "2027-08-15",
+      "CARD-A": "2028-03-15"
+    },
+    "failure": null
+  }
+}
